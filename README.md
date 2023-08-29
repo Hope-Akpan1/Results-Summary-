@@ -35,8 +35,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://github.com/Hope-Akpan1/Results-Summary-)
-- Live Site URL: [Add live site URL here](https://hope-akpan1.github.io/Results-Summary-/)
+- Solution URL:(https://github.com/Hope-Akpan1/Results-Summary-)
+- Live Site URL: (https://hope-akpan1.github.io/Results-Summary-/)
 
 ## My process
 I used my phone to code.
